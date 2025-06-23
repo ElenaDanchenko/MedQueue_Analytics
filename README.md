@@ -11,16 +11,27 @@
 
 ## Содержание работы
 
-Процессный анализ (BPMN)
+### Объект и задачи исследования
+
+### Проявление проблемы
+
+### Цели идеальная и реальная
+
+### Критерии оценки достижения цели
+
+### Проблематика
+
+### Границы системы
+
+### Процессный анализ (BPMN)
   * AS-IS
-   ![Screenshot_4](https://github.com/user-attachments/assets/53946ba3-20bc-40c5-9eef-e4e0ff6a80ac)
+   [Процесс реабилитации согласовательный уровень.pdf](https://github.com/user-attachments/files/20871785/default.pdf)
 
   * Декомпозиция процесса
    [Декомпозиция процесса.pdf](https://github.com/user-attachments/files/20871770/default.pdf)
 
   * Улучшенная система
    [Улучшенный процесс.pdf](https://github.com/user-attachments/files/20871778/default.pdf)
-
 
 
 
