@@ -14,14 +14,18 @@
 
 ### Процессный анализ
 #### AS-IS модель
-[![AS-IS Process](docs/as_is_thumbnail.png)](https://github.com/.../process_as_is.pdf)
+[![AS-IS Process]
+[Процесс реабилитации согласовательный уровень.pdf](https://github.com/user-attachments/files/20879581/default.pdf)
+[Декомпозиция процесса.pdf](https://github.com/user-attachments/files/20879586/default.pdf)
+
 - Выявлено 3 узких места:
   1. Низкий уровень контроля за планированием реабилитации
   2. Недостаточная автоматизация процесса записи
   3. Отсутствие системы сбора и анализа обратной связи от пациентов
 
 #### TO-BE модель
-[![Improved Process](docs/improved_thumbnail.png)](https://github.com/.../process_improved.pdf)
+[Улучшенный процесс.pdf](https://github.com/user-attachments/files/20879591/default.pdf)
+
 Предложенные изменения:
 - Ежемесячный анализ времени ожидания.
 - Систематический сбор обратной связи.
