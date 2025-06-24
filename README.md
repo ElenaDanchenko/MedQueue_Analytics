@@ -34,7 +34,6 @@
 
 ## 📁 Структура проекта
 - [models](https://github.com/ElenaDanchenko/MedQueue_Analytics/tree/main/models) - BPMN-диаграммы (Stormbpmn)
-- `docs/` - полная презентация и пояснительные материалы
-
+- [docs](https://github.com/ElenaDanchenko/MedQueue_Analytics/tree/main/docs) - полная презентация 
 
 
