@@ -14,7 +14,6 @@
 
 ### Процессный анализ
 #### AS-IS модель
-[![AS-IS Process]
 [Процесс реабилитации согласовательный уровень.pdf](https://github.com/user-attachments/files/20879581/default.pdf) <br>
 [Декомпозиция процесса.pdf](https://github.com/user-attachments/files/20879586/default.pdf)
 
